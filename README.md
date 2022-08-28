@@ -5,7 +5,6 @@ The program receives the input: K, filename and optional(max iter):
 (a) K – the number of clusters required.
 (b) input filename - *.txt file that contains datapoints separated by commas.
 (c) output filename - *.txt file that contains the centroids separated by commas.
-(d) max iter – the maximum number of iterations of the K-means algorithm, if not provided
-                  the default value is 200.
+(d) max iter – the maximum number of iterations of the K-means algorithm, if not provided the default value is 200.
                   
 Outputs must be formatted to 4 decimal places (use: ’%.4f’) in both languages c and python.
