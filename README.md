@@ -4,8 +4,6 @@ Given a set of N datapoints x1, x2, . . . , xN ∈ R^d , the goal is to group th
 This project is a Python and C implementation of k-means custering algorithm.
 # input
 The program receives the input: K, filename and optional(max iter):
-h
-j
 (a) K – the number of clusters required.
 (b) input filename - *.txt file that contains datapoints separated by commas.
 (c) output filename - *.txt file that contains the centroids separated by commas.
